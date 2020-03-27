@@ -1,0 +1,8 @@
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netstandard2.0/TheGarden.Library.deps.json
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netstandard2.0/TheGarden.Library.dll
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netstandard2.0/TheGarden.Library.pdb
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netstandard2.0/TheGarden.Library.csprojAssemblyReference.cache
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netstandard2.0/TheGarden.Library.AssemblyInfoInputs.cache
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netstandard2.0/TheGarden.Library.AssemblyInfo.cs
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netstandard2.0/TheGarden.Library.dll
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netstandard2.0/TheGarden.Library.pdb

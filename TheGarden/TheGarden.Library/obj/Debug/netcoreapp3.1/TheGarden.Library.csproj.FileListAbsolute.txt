@@ -1,0 +1,13 @@
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netcoreapp3.1/TheGarden.Library.csprojAssemblyReference.cache
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netcoreapp3.1/TheGarden.Library.AssemblyInfoInputs.cache
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netcoreapp3.1/TheGarden.Library.AssemblyInfo.cs
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.Library.deps.json
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.Library.runtimeconfig.json
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.Library.runtimeconfig.dev.json
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.Library.dll
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.Library.pdb
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.DataAccess.dll
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/bin/Debug/netcoreapp3.1/TheGarden.DataAccess.pdb
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netcoreapp3.1/TheGarden.Library.csproj.CopyComplete
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netcoreapp3.1/TheGarden.Library.dll
+/Users/dianalim/Documents/dotNETProjects/dianalim-project0/TheGarden/TheGarden.Library/obj/Debug/netcoreapp3.1/TheGarden.Library.pdb
