@@ -14,44 +14,44 @@ namespace TheGarden.Library
                 Console.WriteLine("Nectarine Tree $45");
                 Console.WriteLine("Lemon Tree $30");
                 Console.WriteLine("Rose Bush $15");
-                string fruitChoice = Console.ReadLine();
-                if(fruitChoice == "Loquat Tree")
+                string treeChoice = Console.ReadLine();
+                if(treeChoice == "Loquat Tree")
                 {
                     Console.Clear();
                     Console.WriteLine("How many would you like?");
                     string amount = Console.ReadLine();
                     var total = new TotalCost();
-                    var total2 = total.Calculate(fruitChoice, Convert.ToInt32(amount));
+                    var total2 = total.Calculate(treeChoice, Convert.ToInt32(amount));
                     Console.WriteLine("Your total is: $" + total2);
                     Console.ReadLine();
                 }
-                else if(fruitChoice == "Nectarine Tree")
+                else if(treeChoice == "Nectarine Tree")
                 {
                     Console.Clear();
                     Console.WriteLine("How many would you like?");
                     string amount = Console.ReadLine();
                     var total = new TotalCost();
-                    var total2 = total.Calculate(fruitChoice, Convert.ToInt32(amount));
+                    var total2 = total.Calculate(treeChoice, Convert.ToInt32(amount));
                     Console.WriteLine("Your total is: $" + total2);
                     Console.ReadLine();
                 }
-                else if(fruitChoice == "Lemon Tree")
+                else if(treeChoice == "Lemon Tree")
                 {
                     Console.Clear();
                     Console.WriteLine("How many would you like?");
                     string amount = Console.ReadLine();
                     var total = new TotalCost();
-                    var total2 = total.Calculate(fruitChoice, Convert.ToInt32(amount));
+                    var total2 = total.Calculate(treeChoice, Convert.ToInt32(amount));
                     Console.WriteLine("Your total is: $" + total2);
                     Console.ReadLine();
                 }
-                else if(fruitChoice == "Rose Bush")
+                else if(treeChoice == "Rose Bush")
                 {
                     Console.Clear();
                     Console.WriteLine("How many would you like?");
                     string amount = Console.ReadLine();
                     var total = new TotalCost();
-                    var total2 = total.Calculate(fruitChoice, Convert.ToInt32(amount));
+                    var total2 = total.Calculate(treeChoice, Convert.ToInt32(amount));
                     Console.WriteLine("Your total is: $" + total2);
                     Console.ReadLine();
                 }

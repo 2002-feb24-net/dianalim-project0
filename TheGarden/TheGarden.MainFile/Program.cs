@@ -26,12 +26,14 @@ namespace TheGarden.MainFile
             Console.Clear();
             Console.WriteLine("Would you like to see if my database is working? (y/n)");
             Console.ReadLine();
+            Console.WriteLine();
             Console.Clear();
             Console.WriteLine("Type in a customer's name you would like to check.");
             Console.WriteLine();
             string dataCheck = Console.ReadLine();
             var table = new CheckTables();
             table.CheckCustomer(dataCheck);
+            Console.ReadLine();
             Console.Clear();
             Console.WriteLine("Would you like to check my inventory? (y/n)");
             var answer = Console.ReadLine();
